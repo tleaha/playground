@@ -44,7 +44,7 @@ public class AppService {
             }
         }catch (Exception ex)
         {
-            Log.e(TAG,ex.toString());
+            //Log.e(TAG,ex.toString());
         }
 
         return result;
